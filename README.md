@@ -1,2 +1,2 @@
 # bootsrap1
-description
+Bootsrap alapismeretek
